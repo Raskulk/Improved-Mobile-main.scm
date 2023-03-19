@@ -11,7 +11,7 @@ General list of changes:
 - The Russian mafia, the biker gang and the Italian mafia have been captured.
 - Added side missions from TTDISA: "Pizza Boy", "Trash Dash", "Cherry Popper", "Car Salesman", "Slash TV", "Caddy Daddy", "Cone Crazy", "Karmageddon" and "Stunt Boat Challenge". These missions are only available in English and are optional for 100% completion.
 - Restored some features of PC and PS2 scripts.
-...And much more!
+-...And much more!
 
 Based on mods:
 - TTDISA;
