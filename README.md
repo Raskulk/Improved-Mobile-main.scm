@@ -19,8 +19,6 @@ Based on mods:
 - Story Mode 2.0.
 
 List of other modifications used in this mod:
-- "Follow Gang Interiors" (by cheeseburger);
-- "Fix Bike Transfender Glitch" (by Junior_Djjr);
 - "Heart Attack Mod" (by Junior_Djjr);
 - "Body Stats Fix in Interiors" (by Cleoude);
 - "Lighthouse & Pyramid Fix" (by Junior_Djjr);
