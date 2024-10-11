@@ -1,5 +1,7 @@
 # Improved-Mobile-main.scm
 
+You can follow the updates of my mods in this Telegram channel: https://t.me/+sw8AakMHisM1ZTgy
+
 General list of changes:
 - Added Hot Coffee.
 - In the course of the storyline, more than 400 new unique replicas were added that were not previously used in the game, including several new phone calls and unique cutscenes (currently being tested).
