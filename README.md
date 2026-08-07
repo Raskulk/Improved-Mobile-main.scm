@@ -2,6 +2,8 @@
 
 You can follow the updates of my mods in this Telegram channel: https://t.me/+sw8AakMHisM1ZTgy
 
+Improved Mobile main.scm is a global mod for GTA SA Android, which introduces many changes to the mainV1.scm file, which contains game scripts.
+
 General list of changes:
 - Added Hot Coffee.
 - In the course of the storyline, more than 400 new unique lines were added that were not previously used in the game, including several new phone calls and unique cutscenes (currently being tested).
